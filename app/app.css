@@ -116,6 +116,10 @@ form {
   }
 }
 
+@utility danger-gradient {
+  background: linear-gradient(to bottom, #ff6b6b, #e63946);
+}
+
 @utility bg-gradient {
   background: linear-gradient(to bottom, #f0f4ff 60%, #fa7185cc);
 }
